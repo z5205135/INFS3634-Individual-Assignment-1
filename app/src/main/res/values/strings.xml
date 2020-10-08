@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">INFS3634 Individual Assignment 1</string>
+    <string name="title">Number Guessing Game</string>
+    <string name="high">Too High! Guess Again!</string>
+    <string name="low">Too Low! Guess Again!</string>
+
+</resources>
